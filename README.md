@@ -1,4 +1,4 @@
-# HeyGoogleFFH - Smart Google Assistant & Gemini Home Muter
+# HeyGoogleFFH - Smartphone Google Assistant & Gemini Muter
 
 If you own Google Home / Nest Mini devices at home, you probably know how annoying it is to say "Hey Google" and have your smartphone wake up at the exact same time, interfering with your smart speakers. Plus, if you miss the speed of the old Google Assistant over the slow new Gemini, HeyGoogleFFH is the ultimate utility you need!
 
