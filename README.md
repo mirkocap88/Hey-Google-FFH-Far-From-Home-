@@ -7,7 +7,7 @@ If you own Google Home / Nest Mini devices at home, you probably know how annoyi
 ##English Description
 
 ### What is HeyGoogleFFH?
-HeyGoogleFFH is an advanced Android utility designed to automatically mute and block Google Assistant / Gemini when you are inside your home perimeter, while keeping it fully ready when you are away.
+HeyGoogleFFH is an advanced Android utility designed to automatically mute and block Google Assistant / Gemini  on your smartphone when you are inside your home perimeter, while keeping it fully ready when you are away.
 
 ### Who is this for?
 - **Smart Home Owners**: Anyone with Google Home Mini or Nest speakers who is tired of their phone screen waking up and responding alongside their smart speakers.
@@ -24,7 +24,7 @@ HeyGoogleFFH is an advanced Android utility designed to automatically mute and b
 ##Descrizione in Italiano
 
 ### Cos'è HeyGoogleFFH?
-HeyGoogleFFH è un'utilità avanzata per Android progettata per silenziare e bloccare automaticamente l'Assistente Google / Gemini quando ti trovi all'interno del perimetro di casa, lasciandolo invece pronto all'uso quando sei fuori.
+HeyGoogleFFH è un'utilità avanzata per Android progettata per silenziare e bloccare automaticamente l'Assistente Google / Gemini sul tuo smartphone quando ti trovi all'interno del perimetro di casa, lasciandolo invece pronto all'uso quando sei fuori.
 
 ### A chi è rivolto?
 - **Appassionati di Domotica**: Chiunque possieda diffusori Google Home Mini o Nest e sia stufo di vedere lo schermo del proprio smartphone accendersi e rispondere insieme agli speaker smart.
